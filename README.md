@@ -51,6 +51,14 @@ $ git add .
 $ git commit -m "Put a message describing your work here"
 ```
 
+Your commit message should be short: the standard is about 50 characters. Also, it should be written in the [imperative tense](https://chris.beams.io/posts/git-commit/#imperative).
+
+If you need to write a longer message, use:
+
+```
+$ git commit -m "Add title here" -m "Your full, longer description can go here. Still, don't write an essay."
+```
+
 ### Be careful with pushing!
 
 Pushing a branch allows you to send your code to GitHub so others can see your work and it can be saved online. But pushing incorrectly can be **dangerous**. Always make sure you are pushing to the **correct branch** and never push with the `--force` flag, except after a rebase.
