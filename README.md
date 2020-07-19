@@ -1,6 +1,6 @@
 # GitHub Small Team Workflow
 
-Originally created for the [LMVP project](https://github.com/dsc-umass/lmvp). This guide is also easily adaptable for any GitHub project with a small team. Just replace the project name, Git URLs, and the reviewer suggestion.
+Originally created for the [LMVP project](https://github.com/dsc-umass/lmvp). This guide is also easily adaptable for any GitHub project with a small team. Just replace the project names, Git URLs, and the reviewer username.
 
 A bonus guide at the end explains how to run a Docker Compose project.
 
