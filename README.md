@@ -6,7 +6,7 @@ A bonus guide at the end explains how to run a Docker Compose project.
 
 ## Contributing and Workflow
 
-Welcome to the team! The work for this project is managed using GitHub issues. Each issue represents something that needs to be done: usually fixing a bug or adding a new feature. **Every change you make** should have its own **issue** and its own **branch**. If you've used Jira before, you will recognize issues as being the analogous to tickets. First, clone the repository by running:
+Welcome to the team! The work for this project is managed using GitHub issues. Each issue represents something that needs to be done: usually fixing a bug or adding a new feature. **Every change you make** should have its own **issue** and its own **branch**. If you've used Jira before, you will recognize issues as being analogous to tickets. First, clone the repository by running:
 
 ```
 $ git clone git@github.com:dsc-umass/lmvp.git
@@ -91,7 +91,7 @@ A pull request is used to indicate that you're ready for your work to be reviewe
 
 Go to the *Pull requests* tab at the top of GitHub, then click the green *New pull request* button. Make sure that **base** is set to master and change **compare** to be the branch with your changes. Remember to [link the pull request to your issue](https://docs.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue).
 
-Also set the reviewer in the upper right. In most cases this will include me, **jbinvnt**, and other teammates who can offer feedback. After that, you can submit the pull request. Do not merge your own pull request without review!
+Also set the reviewer in the upper right. In most cases this will include me--**jbinvnt**--and other teammates who can offer feedback. After that, you can submit the pull request. Do not merge your own pull request without review!
 
 ### Reviewing a pull request
 
