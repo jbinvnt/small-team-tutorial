@@ -79,7 +79,7 @@ You can make and push multiple commits. Any subsequent times you push commits wh
 
 ### Creating a pull request
 
-A pull request is used to indicate that you're ready for your work to be reviewed before being added to the master version of the codebase. Pull request a place for others to comment with feedback and for you to make changes in response to their suggestions. If you've used GitLab before, you will recognize pull requests as being analogous to merge requests.
+A pull request is used to indicate that you're ready for your work to be reviewed before being added to the master version of the codebase. Pull requests provide a place for others to comment with feedback and for you to make changes in response to their suggestions. If you've used GitLab before, you will recognize pull requests as being analogous to merge requests.
 
 Go to the *Pull requests* tab at the top of GitHub, then click the green *New pull request* button. Make sure that **base** is set to master and change **compare** to be the branch with your changes. Remember to [link the pull request to your issue](https://docs.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue).
 
